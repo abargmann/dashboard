@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: "dashboard"
+baseurl: "http://noodleeducation.github.com/dashboard"
 exclude:
 - .gitignore
 - README.md
