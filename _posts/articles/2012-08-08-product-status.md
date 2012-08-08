@@ -3,7 +3,7 @@ layout: article
 published: true
 title: Product Status
 abstract: Running tally of upcoming and in progress work on the product
-author_twitter: _noodleeducation
+author_twitter: noodleeducation
 author: Alex Bargmann, Doris Chan
 categories:
 - articles
