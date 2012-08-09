@@ -23,6 +23,11 @@ published: true
  - On average, our visitors submit ~0.7 Wizard Panels.  The goal of this story is to increase that number.
  - ETA: 8/20/12, PROD:1, DEV:UNESTIMATED 
  
+## Continued Email Marketing w/ Content Newsletters, P&P, Product Marketing 
+ - As a user, I want to receive content emails/newsletters in the graduate, jd, mba, k12, college, study abroad, medical, test-prep, and guidance counseling verticals. 
+ - Have tested emails for all the above verticals (8/9/12) 
+ - ETA: 8/8/12, PROD:8  
+ 
 ## Viewing Favorites Pages, P&P, UI
  - As a user, I want to view my favorites from a page so I can easily manage them.  
  - Build an interaction on clicking the 'Heart' to 'Store' the grid item. 
@@ -44,9 +49,14 @@ published: true
 ## White House Project, S&S, New Product 
  - As a user, I want to receive personalized college recommendations through a fun quiz-like wizard, so I will be more interested in reviewing them.  
  - Alicia is reviewing data sources and variables to build recommendations and question around.   
- - ETA: Mid-September, PROD: UNKNOWN, DEV: UNKNOWN  
+ - ETA: Mid-September, 
 
-##
+## Able Sentry, P&P, UI 
+ - As a user, I want to experience a unique, personalized, and innovative onboarding experience so that I can understand how Noodle can help solve my problems searching for an education opportunity.  
+ - Researching data we can acquire from social logins (LinkedIn, Facebook, etc.) 
+ - Defining other necessary fields for barebones recommendations - Age/Location 
+ - Brainstorming questions and recommendation systems.  
+ - ETA: Mid-September, 
   
 
  
