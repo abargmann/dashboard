@@ -56,7 +56,7 @@ published: true
  - Build a marketing page that explains how and why to sign up as a provider 
  - ETA: 8/13/12, PROD:5, DEV:5 
  
- ## White House Project, S&S, New Product 
+## White House Project, S&S, New Product 
  - As a user, I want to receive personalized college recommendations through a fun quiz-like wizard, so I will be more interested in reviewing them.  
  - Alicia is reviewing data sources and variables to build recommendations and question around.   
  - ETA: Mid-September
